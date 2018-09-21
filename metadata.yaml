@@ -1,0 +1,35 @@
+_repo: Eva-s-Adventures-in-Shadow-Land_53899
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Nauman, Mary D. (Mary Dummett)
+    aliases:
+    - Nauman, M. D. (Mary Dummett)
+    - Robinson, Mary Dummett Nauman
+    birthdate: 1839
+    deathdate: 1920
+    gutenberg_agent_id: '47604'
+    url: http://www.gutenberg.org/2009/agents/47604
+  - agent_name: Guernsey, Clara F. (Clara Florida)
+    alias: Guernsey, Clara Florida
+    birthdate: 1836
+    deathdate: 1893
+    gutenberg_agent_id: '6311'
+    url: http://www.gutenberg.org/2009/agents/6311
+description: ''
+gutenberg_issued: '2017-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Children''s stories'
+- GITenberg
+title: Eva's Adventures in Shadow-Land
+url: http://www.gutenberg.org/ebooks/53899
