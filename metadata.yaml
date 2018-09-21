@@ -1,5 +1,8 @@
 _repo: Eva-s-Adventures-in-Shadow-Land_53899
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53899-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Nauman, Mary D. (Mary Dummett)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '6311'
     url: http://www.gutenberg.org/2009/agents/6311
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53899#Eva-s-Adventures-in-Shadow-Land
 gutenberg_issued: '2017-01-06'
 gutenberg_type: Text
 identifiers:
